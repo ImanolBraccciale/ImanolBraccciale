@@ -1,4 +1,10 @@
-### Hi there 👋
+¡Hola! Soy Imanol Braccciale, un apasionado desarrollador fullstack con un fuerte enfoque en el backend. Me encanta trabajar en proyectos que involucran la creación de soluciones eficientes y escalables. Mi amor por la programación me lleva a explorar constantemente nuevas tecnologías y abordar desafíos interesantes.
+
+Con experiencia en JavaScript, HTML, CSS, React, PostgreSQL, Express.js, Sequelize, Next.js y TypeScript, he adquirido un conjunto de habilidades sólido que me permite desarrollar aplicaciones web de alto rendimiento.
+
+Siempre estoy buscando nuevas oportunidades para aprender y crecer. Mi objetivo es contribuir al mundo del desarrollo web mediante la creación de código limpio y eficiente. Estoy emocionado por futuros proyectos y colaboraciones, ya que considero que el trabajo en equipo es esencial para el éxito en el mundo de la programación.
+
+Estoy abierto a oportunidades laborales y a participar en proyectos de código abierto. ¡Conéctate conmigo y exploremos juntos las posibilidades infinitas del desarrollo web!
 
 <!--
 **ImanolBraccciale/ImanolBraccciale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
